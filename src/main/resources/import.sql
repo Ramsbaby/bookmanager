@@ -1,0 +1,2 @@
+-- call next value for hibernate_sequence;
+-- insert into user(id, name, email, created_at, updated_at) values (1, 'martin', 'martin@fastcampus.com', current_timestamp(), current_timestamp());
